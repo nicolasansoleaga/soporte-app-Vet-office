@@ -1,2 +1,2 @@
-# soporte-app-Vet-office
-Podrás recibir soporte de la App Vet Office and Client Geo
+# soporte-app-VetGo
+Podrás recibir soporte de la App VetGo
